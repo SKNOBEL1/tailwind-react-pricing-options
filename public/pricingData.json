@@ -1,0 +1,49 @@
+[
+    {
+      "id":1,
+      "name": "Basic",
+      "price": "$29/month",
+      "description": "Perfect for beginners who need essential access and flexibility.",
+      "features": [
+        "Access to gym floor",
+        "Cardio & weight equipment",
+        "Locker room access",
+        "Free Wi-Fi",
+        "No contract required",
+        "Access during staffed hours",
+        "Monthly fitness tips newsletter"
+      ]
+    },
+    {
+      "id":2,
+      "name": "Standard",
+      "price": "$49/month",
+      "description": "Great for regular gym-goers who want more perks and class access.",
+      "features": [
+        "Everything in Basic",
+        "Unlimited group fitness classes",
+        "2 guest passes per month",
+        "Sauna & steam room access",
+        "Nutrition guide PDF",
+        "Extended access hours",
+        "Quarterly fitness assessment"
+      ]
+    },
+    {
+      "id":3,
+      "name": "Elite",
+      "price": "$99/month",
+      "description": "All-access plan with premium perks and coaching for serious lifters.",
+      "features": [
+        "Everything in Standard",
+        "Weekly personal training session",
+        "Nutrition coaching",
+        "Massage therapy discounts",
+        "VIP locker & towel service",
+        "24/7 facility access",
+        "Priority class booking",
+        "Exclusive members-only workshops"
+      ]
+    }
+  ]
+  
