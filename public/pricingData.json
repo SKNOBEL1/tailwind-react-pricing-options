@@ -9,14 +9,14 @@
         "Cardio & weight equipment",
         "Locker room access",
         "Free Wi-Fi",
-        "No contract required",
-        "Access during staffed hours",
-        "Monthly fitness tips newsletter"
+        "No contract required"
+        
       ]
     },
     {
       "id":2,
       "name": "Standard",
+      "popular": true,
       "price": "$49/month",
       "description": "Great for regular gym-goers who want more perks and class access.",
       "features": [
@@ -24,9 +24,8 @@
         "Unlimited group fitness classes",
         "2 guest passes per month",
         "Sauna & steam room access",
-        "Nutrition guide PDF",
-        "Extended access hours",
-        "Quarterly fitness assessment"
+        "Nutrition guide PDF"
+        
       ]
     },
     {
@@ -40,9 +39,7 @@
         "Nutrition coaching",
         "Massage therapy discounts",
         "VIP locker & towel service",
-        "24/7 facility access",
-        "Priority class booking",
-        "Exclusive members-only workshops"
+        "24/7 facility access"
       ]
     }
   ]
